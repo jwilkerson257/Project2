@@ -13,4 +13,10 @@ public class MesoInherit extends MesoAbstract
 	{
 		// TODO
 	}
+
+	@Override
+	public char letterAverage()
+	{
+		// TODO
+	}
 }

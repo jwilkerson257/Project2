@@ -6,6 +6,7 @@ public class MesoInherit extends MesoAbstract
 	
 	public MesoInherit(MesoStation mesoStation)
 	{
+		// Assigns the parameter to the variable STID in order to utilize it in this class
 		this.STID = mesoStation;
 	}
 

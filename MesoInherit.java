@@ -12,8 +12,10 @@ public class MesoInherit extends MesoAbstract
 	public int[] calAverage()
 	{
 		// TODO
+		double sum = 0;
 	}
 
+	// The letterAverage method takes the average value from the ASCII values and casts it into a character
 	@Override
 	public char letterAverage()
 	{

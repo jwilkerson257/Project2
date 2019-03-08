@@ -2,6 +2,7 @@ public class MesoInherit extends MesoAbstract
 {
 	//TODO
 	MesoStation STID;
+	double average;
 	
 	public MesoInherit(MesoStation mesoStation)
 	{

@@ -14,6 +14,11 @@ public class MesoInherit extends MesoAbstract
 		// TODO
 		double sum = 0;
 		int[] nodes = new int[3];
+
+		for (int k = 0; k < STID.getStID().length(); k++)
+		{
+			sum += (double) STID.getStID().charAt(k);
+		}
 	}
 
 	// The letterAverage method takes the average value from the ASCII values and casts it into a character

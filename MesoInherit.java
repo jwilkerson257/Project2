@@ -7,4 +7,10 @@ public class MesoInherit extends MesoAbstract
 	{
 		this.STID = mesoStation;
 	}
+
+	@Override
+	public int[] calAverage()
+	{
+		// TODO
+	}
 }

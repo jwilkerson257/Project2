@@ -40,5 +40,6 @@ public class MesoInherit extends MesoAbstract
 	public char letterAverage()
 	{
 		// TODO
+		return (char) average;
 	}
 }
